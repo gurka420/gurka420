@@ -1,6 +1,6 @@
-### Hi there 👋
+### helo 👋
 
-- 🔭 I’m currently working on bad bash scripts
-- 🌱 I’m currently learning swift and javascript
-- 😄 Pronouns: he/him
+- 🔭 im currently working on bad bash scripts
+- 🌱 im currently learning swift and javascript
+- 😄 pronouns: he/him
 - ⚡ Fun fact: i hate windows and everything about it
