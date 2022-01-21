@@ -1,4 +1,4 @@
-### helo 👋
+### hey 👋
 
 - im simon
 - i know a bit of python and shell scripting
